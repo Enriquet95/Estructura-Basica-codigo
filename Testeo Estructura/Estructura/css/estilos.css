@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+    color: aliceblue;
+}
+
+header{
+  background-color: black;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  font-size: 30px;
+}
+nav{
+    background-color: rgb(72, 134, 1);
+    height: 535px;
+    width: 15%;
+    float: left;   
+    align-content: center;
+    text-align: center;
+}
+.cont{
+    background-color: blue;
+    width: 70%;
+    height: 267px;
+    float: left;
+    align-content: center;
+    text-align: center;
+}
+.info{
+    background-color: rgb(141, 141, 161);
+    float:left;
+    width: 70%;
+    height: 267px;
+    align-content: center;
+    text-align: center;
+}
+aside .Menu1{
+    background-color: orange;
+    width: 15%;
+    height: 267px;
+    float:none;
+    align-content: center;
+    text-align: center;
+}
+aside .Menu2{
+    background-color: springgreen;
+    width: 15%;
+    height: 267px;
+    float: none;
+    align-content: center;
+    text-align: center;
+}
+footer{
+    background-color: purple;
+    width: 100%;
+    height: 50px;
+    float:inline-end;
+    align-content: center;
+    text-align: center;
+}
